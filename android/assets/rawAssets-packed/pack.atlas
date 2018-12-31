@@ -1,0 +1,69 @@
+
+pack.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+alienBlue_jumpleft
+  rotate: false
+  xy: 132, 135
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+alienBlue_jumpright
+  rotate: false
+  xy: 260, 295
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+alienblue
+  rotate: false
+  xy: 71, 6
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+alienblue_walk1left
+  rotate: false
+  xy: 329, 393
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+alienblue_walk1right
+  rotate: false
+  xy: 397, 393
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+alienblue_walk2left
+  rotate: false
+  xy: 260, 390
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+alienblue_walk2right
+  rotate: false
+  xy: 2, 2
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+badlogic
+  rotate: false
+  xy: 2, 230
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 2, 100
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
